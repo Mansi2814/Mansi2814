@@ -13,7 +13,7 @@ Here are some ideas to get you started:-->
 - ⚡ Fun fact: If it works, don't touch it!
 
 ## Connect with me
-[<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://user-images.githubusercontent.com/62114118/122208119-8aa45400-cec0-11eb-9761-26e1511b4cc9.png" width="60" />](https://www.linkedin.com/in/mansi-mehndiratta-093bb3171/)
+[<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://user-images.githubusercontent.com/62114118/122208119-8aa45400-cec0-11eb-9761-26e1511b4cc9.png" width="150" />](https://www.linkedin.com/in/mansi-mehndiratta-093bb3171/)
 
 
 
