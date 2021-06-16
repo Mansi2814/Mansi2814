@@ -12,8 +12,7 @@ Here are some ideas to get you started:-->
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: If it works, don't touch it!
 
-## Connect with me
-[![image](https://user-images.githubusercontent.com/62114118/122207635-f89c4b80-cebf-11eb-89bf-8b0e8dfe46e7.png)](https://www.linkedin.com/in/mansi-mehndiratta-093bb3171/)
+
 
 
 
