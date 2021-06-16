@@ -17,9 +17,9 @@ Here are some ideas to get you started:-->
 [<img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" data-canonical-src="https://user-images.githubusercontent.com/62114118/122208119-8aa45400-cec0-11eb-9761-26e1511b4cc9.png" width="100" />](https://twitter.com/MansiMehndirat1)
 
 ## GitHub Statistics
-![Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Mansi2814&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mansi2814&layout=compact)
 
-![Mansi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mansi2814)
+![](https://github-readme-stats.vercel.app/api?username=Mansi2814)
 
 ![](https://komarev.com/ghpvc/?username=Mansi2814)
 
