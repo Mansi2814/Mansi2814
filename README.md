@@ -19,8 +19,6 @@ Here are some ideas to get you started:-->
 ## GitHub Statistics
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mansi2814&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=Mansi2814)
-
 ![](https://komarev.com/ghpvc/?username=Mansi2814)
 
 
