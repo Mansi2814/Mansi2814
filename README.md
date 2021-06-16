@@ -14,7 +14,7 @@ Here are some ideas to get you started:-->
 
 ## Connect with me
 [<img src="https://user-images.githubusercontent.com/62114118/122208119-8aa45400-cec0-11eb-9761-26e1511b4cc9.png" data-canonical-src="https://user-images.githubusercontent.com/62114118/122208119-8aa45400-cec0-11eb-9761-26e1511b4cc9.png" width="100" />](https://www.linkedin.com/in/mansi-mehndiratta-093bb3171/)
-[<img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" data-canonical-src="https://user-images.githubusercontent.com/62114118/122208119-8aa45400-cec0-11eb-9761-26e1511b4cc9.png" width="100" />]
+[<img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" data-canonical-src="https://user-images.githubusercontent.com/62114118/122208119-8aa45400-cec0-11eb-9761-26e1511b4cc9.png" width="100" />](https://twitter.com/MansiMehndirat1)
 
 
 
