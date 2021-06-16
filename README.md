@@ -1,4 +1,4 @@
-#<center> Hi 👋, This is Mansi Mehndiratta </center>
+# Hi 👋, This is Mansi Mehndiratta
 
 <!--
 **Mansi2814/Mansi2814** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
