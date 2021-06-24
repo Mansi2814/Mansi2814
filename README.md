@@ -8,7 +8,6 @@ Here are some ideas to get you started:-->
 - 🔭 I’m currently working on my Personal Portfolio website
 - 🌱 I’m currently learning Django framework
 - 👯 I’m looking to collaborate on any cool project.
-- 📫 How to reach me: mehndiratta5369@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: If it works, don't touch it!
 
