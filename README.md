@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on my Personal Portfolio website
 - 🌱 I’m currently learning Django framework
 - 👯 I’m looking to collaborate on any cool project.
 - 😄 Pronouns: She/Her
