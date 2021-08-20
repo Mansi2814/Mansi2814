@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🌱 I’m currently learning Django framework
+- 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on any cool project.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: If it works, don't touch it!
